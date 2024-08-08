@@ -1,0 +1,8 @@
+/* src/components/MedicineAvailability.module.css */
+.medicineAvailability {
+    padding: 1rem;
+  }
+  
+  .medicineAvailability h2 {
+    color: #2c3e50;
+  }

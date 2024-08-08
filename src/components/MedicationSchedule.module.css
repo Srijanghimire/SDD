@@ -1,0 +1,8 @@
+/* src/components/MedicationSchedule.module.css */
+.medicationSchedule {
+    padding: 1rem;
+  }
+  
+  .medicationSchedule h2 {
+    color: #2c3e50;
+  }
